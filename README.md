@@ -4,7 +4,7 @@
 # On Linux and MacOS run:
 sudo nano /etc/hosts, paste:
 
-#Spotify Blocked ads
+#Spotify Blocked ads</ln>
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 http://www.googletagservices.com
