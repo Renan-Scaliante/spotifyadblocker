@@ -10,7 +10,7 @@ sudo nano /etc/hosts, paste:
 0.0.0.0 http://www.googletagservices.com</br>
 0.0.0.0 gads.pubmatic.com</br>
 0.0.0.0 ads.pubmatic.com</br>
-0.0.0.0 spclient.wg.spotify.com >>spotify</br>
+0.0.0.0 spclient.wg.spotify.com</br>
 
 ### Type CTRL + O to save, Enter and CTRL + X to close nano.
 ### Restart Spotify Client
