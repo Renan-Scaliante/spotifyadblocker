@@ -1,6 +1,6 @@
 # SpotifyAdBlocker
 ## Block ad-Banners and block music samples on Spotify Free on Windows, Linux and MacOS systems
-![Spotify Screenshot](https://github.com/Renan-Scaliante/spotifyadblocker/blob/master/spotify.png)
+![Spotify Screenshot](https://github.com/Renan-Scaliante/spotifyadblocker/blob/master/spotify-scst.png)
 # On Linux and MacOS run:
 Open a Terminal and type: sudo nano /etc/hosts</br>
 At the end of file paste the codes bellow:
